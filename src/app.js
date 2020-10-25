@@ -15,6 +15,7 @@ store.subscribe(()=>{
     console.log(store.getState());
 })
 
+/* Manual entry removed
 store.dispatch(addExpense({
     description :'water',
     note:'bill',
@@ -31,7 +32,7 @@ store.dispatch(addExpense({
     description :'rent',
     note:'bill',
     amount:10950
-}))
+}))*/
 
 
 const stateNow = store.getState();
