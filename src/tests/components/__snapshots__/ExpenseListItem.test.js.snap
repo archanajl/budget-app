@@ -8,9 +8,9 @@ exports[`should render Expense Item 1`] = `
     water bill
   </Link>
   <p>
-    100
-    --- 
-    0
+    $1.00
+    ---
+    January 1st, 1970
   </p>
 </div>
 `;
